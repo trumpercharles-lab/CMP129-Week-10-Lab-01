@@ -1,4 +1,4 @@
-public class Vehicle extends Car {
+public class Vehicle {
     private String company, model;
     private int year;
 
@@ -12,3 +12,4 @@ public class Vehicle extends Car {
         System.out.print("Company: "+company+"\n"+"Model: "+model+"\n"+"Year: "+year+"\n");
     }
 }
+
